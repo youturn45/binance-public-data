@@ -6,3 +6,9 @@
 */.idea/
 */__pycache__/
 python/data/
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
